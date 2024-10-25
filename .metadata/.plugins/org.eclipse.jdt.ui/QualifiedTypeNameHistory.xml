@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeClass"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.testng.TimeBombSkipException"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="com.Orange.genericLib.Reusability"/>
+    <fullyQualifiedTypeName name="com.Orange.pompages.HomePage"/>
+    <fullyQualifiedTypeName name="com.Orange.pompages.LoginPage"/>
+    <fullyQualifiedTypeName name="org.testng.ITestNGListener"/>
+    <fullyQualifiedTypeName name="org.testng.ITestListener"/>
+    <fullyQualifiedTypeName name="com.google.common.io.Files"/>
+    <fullyQualifiedTypeName name="org.testng.Reporter"/>
+    <fullyQualifiedTypeName name="com.Orange.genericLib.CustomListener"/>
+</qualifiedTypeNameHistroy>

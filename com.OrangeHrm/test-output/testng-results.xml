@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="14" total="21" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[====to Connect the Server]]>
+    </line>
+    <line>
+      <![CDATA[===to Connect the database===]]>
+    </line>
+    <line>
+      <![CDATA[===close the browser====]]>
+    </line>
+    <line>
+      <![CDATA[===close the browser====]]>
+    </line>
+    <line>
+      <![CDATA[====to close connection with database==]]>
+    </line>
+    <line>
+      <![CDATA[====to close connection with server==]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-15T23:54:30Z" name="Suite" finished-at="2024-10-15T23:55:01Z" duration-ms="31753">
+    <groups>
+      <group name="IT">
+        <method signature="SignUpTest.signUp()[pri:0, instance:com.OrangeHrm.TestScripts.SignUpTest@5c7933ad]" name="signUp" class="com.OrangeHrm.TestScripts.SignUpTest"/>
+      </group> <!-- IT -->
+      <group name="FT">
+        <method signature="InvalidLogin.InvalidLoginIntoDemoWebShop(java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" name="InvalidLoginIntoDemoWebShop" class="com.OrangeHrm.TestScripts.InvalidLogin"/>
+      </group> <!-- FT -->
+    </groups>
+    <test started-at="2024-10-15T23:54:30Z" name="Test" finished-at="2024-10-15T23:55:01Z" duration-ms="31753">
+      <class name="com.OrangeHrm.TestScripts.InvalidLogin">
+        <test-method is-config="true" signature="toConnectTheServer()[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:30Z" name="toConnectTheServer" finished-at="2024-10-15T23:54:30Z" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====to Connect the Server]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toConnectTheServer -->
+        <test-method is-config="true" signature="toConnectTheDatabase()[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:30Z" name="toConnectTheDatabase" finished-at="2024-10-15T23:54:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===to Connect the database===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toConnectTheDatabase -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:30Z" name="launchBrowser" finished-at="2024-10-15T23:54:34Z" duration-ms="4663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="InvalidLoginIntoDemoWebShop(java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:34Z" name="InvalidLoginIntoDemoWebShop" data-provider="TestData" finished-at="2024-10-15T23:54:35Z" duration-ms="941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Neela]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginIntoDemoWebShop -->
+        <test-method signature="InvalidLoginIntoDemoWebShop(java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:35Z" name="InvalidLoginIntoDemoWebShop" data-provider="TestData" finished-at="2024-10-15T23:54:36Z" duration-ms="785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajdha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hdssgs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginIntoDemoWebShop -->
+        <test-method signature="InvalidLoginIntoDemoWebShop(java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:36Z" name="InvalidLoginIntoDemoWebShop" data-provider="TestData" finished-at="2024-10-15T23:54:37Z" duration-ms="998" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jhadag]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdah]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginIntoDemoWebShop -->
+        <test-method signature="InvalidLoginIntoDemoWebShop(java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:37Z" name="InvalidLoginIntoDemoWebShop" data-provider="TestData" finished-at="2024-10-15T23:54:38Z" duration-ms="871" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ahsjaans]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jashdh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginIntoDemoWebShop -->
+        <test-method signature="InvalidLoginIntoDemoWebShop(java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:38Z" name="InvalidLoginIntoDemoWebShop" data-provider="TestData" finished-at="2024-10-15T23:54:39Z" duration-ms="782" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hjsgd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hasshj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginIntoDemoWebShop -->
+        <test-method signature="InvalidLoginIntoDemoWebShop(java.lang.String, java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:39Z" name="InvalidLoginIntoDemoWebShop" data-provider="TestData" finished-at="2024-10-15T23:54:40Z" duration-ms="950" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hags]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YQWY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginIntoDemoWebShop -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:54:40Z" name="closeBrowser" finished-at="2024-10-15T23:54:40Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===close the browser====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="toClosetheConnectionWithDataBase1()[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:55:01Z" name="toClosetheConnectionWithDataBase1" finished-at="2024-10-15T23:55:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====to close connection with database==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toClosetheConnectionWithDataBase1 -->
+        <test-method is-config="true" signature="toClosetheConnectionWithServer()[pri:0, instance:com.OrangeHrm.TestScripts.InvalidLogin@65f8f5ae]" started-at="2024-10-15T23:55:02Z" name="toClosetheConnectionWithServer" finished-at="2024-10-15T23:55:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====to close connection with server==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toClosetheConnectionWithServer -->
+      </class> <!-- com.OrangeHrm.TestScripts.InvalidLogin -->
+      <class name="com.OrangeHrm.TestScripts.SignUpTest">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:com.OrangeHrm.TestScripts.SignUpTest@5c7933ad]" started-at="2024-10-15T23:54:40Z" name="launchBrowser" finished-at="2024-10-15T23:54:44Z" duration-ms="4482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="signUp()[pri:0, instance:com.OrangeHrm.TestScripts.SignUpTest@5c7933ad]" started-at="2024-10-15T23:54:44Z" name="signUp" description="verify the user is able to register or not" finished-at="2024-10-15T23:55:01Z" duration-ms="17181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.OrangeHrm.TestScripts.SignUpTest@5c7933ad]" started-at="2024-10-15T23:55:01Z" name="closeBrowser" finished-at="2024-10-15T23:55:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===close the browser====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.OrangeHrm.TestScripts.SignUpTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
